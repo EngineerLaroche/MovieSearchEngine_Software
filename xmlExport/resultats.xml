@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<films>
+<film id="102798">
+<titre>Robin Hood: Prince of Thieves</titre>
+<annee>1991</annee>
+<pays>USA</pays>
+<langue>English</langue>
+<duree>143</duree>
+<resume>When Robin and his Moorish companion come to England and the tyranny of the Sheriff of Nottingham, he decides to fight back as an outlaw.</resume>
+<genre>Action</genre>
+<genre>Adventure</genre>
+<genre>Drama</genre>
+<genre>Romance</genre>
+<realisateur id="721817">Kevin Reynolds</realisateur>
+<scenariste>Kevin Reynolds</scenariste>
+<role>
+<acteur id="126">Kevin Costner</acteur>
+<personnage>Robin Hood</personnage>
+</role>
+<role>
+<acteur id="151">Morgan Freeman</acteur>
+<personnage>Azeem</personnage>
+</role>
+<role>
+<acteur id="1512">Mary Elizabeth Mastrantonio</acteur>
+<personnage>Marian Dubois</personnage>
+</role>
+<role>
+<acteur id="225">Christian Slater</acteur>
+<personnage>Will Scarlett</personnage>
+</role>
+<role>
+<acteur id="614">Alan Rickman</acteur>
+<personnage>Sheriff of Nottingham</personnage>
+</role>
+<role>
+<acteur id="574540">Michael McShane</acteur>
+<personnage>Friar Tuck</personnage>
+</role>
+<role>
+<acteur id="699">Michael Wincott</acteur>
+<personnage>Guy of Gisborne</personnage>
+</role>
+<role>
+<acteur id="3818">Nick Brimble</acteur>
+<personnage>Little John</personnage>
+</role>
+<role>
+<acteur id="628054">Daniel Newman</acteur>
+<personnage>Wulf</personnage>
+</role>
+<role>
+<acteur id="928349">Jack Wild</acteur>
+<personnage>Much the Miller s Son</personnage>
+</role>
+<poster>http://ia.media-imdb.com/images/M/MV5BMTI2NzY5Mjk4OV5BMl5BanBnXkFtZTYwODExOTk5._V1._SX100_SY134_.jpg</poster>
+<annonce>n/a</annonce>
+</film>
+<film id="118688">
+<titre>Batman &amp; Robin</titre>
+<annee>1997</annee>
+<pays>USA</pays>
+<pays>UK</pays>
+<langue>English</langue>
+<duree>125</duree>
+<resume>Batman &amp; Robin try to keep their relationship together even as they must stop Mr. Freeze and Poison Ivy from freezing Gotham City.</resume>
+<genre>Action</genre>
+<genre>Crime</genre>
+<realisateur id="1708">Joel Schumacher</realisateur>
+<scenariste>Joel Schumacher</scenariste>
+<role>
+<acteur id="216">Arnold Schwarzenegger</acteur>
+<personnage>Mr. Freeze</personnage>
+</role>
+<role>
+<acteur id="123">George Clooney</acteur>
+<personnage>Batman</personnage>
+</role>
+<role>
+<acteur id="563">Chris O Donnell</acteur>
+<personnage>Robin</personnage>
+</role>
+<role>
+<acteur id="235">Uma Thurman</acteur>
+<personnage>Poison Ivy</personnage>
+</role>
+<role>
+<acteur id="224">Alicia Silverstone</acteur>
+<personnage>Batgirl</personnage>
+</role>
+<role>
+<acteur id="1284">Michael Gough</acteur>
+<personnage>Alfred Pennyworth</personnage>
+</role>
+<role>
+<acteur id="385757">Pat Hingle</acteur>
+<personnage>Commissioner James Gordon</personnage>
+</role>
+<role>
+<acteur id="1278">John Glover</acteur>
+<personnage>Dr. Jason Woodrue</personnage>
+</role>
+<role>
+<acteur id="512">Elle Macpherson</acteur>
+<personnage>Julie Madison</personnage>
+</role>
+<role>
+<acteur id="407">Vivica A. Fox</acteur>
+<personnage>Ms. B. Haven</personnage>
+</role>
+<role>
+<acteur id="456971">Vendela Kirsebom Thomessen</acteur>
+<personnage>Nora Fries</personnage>
+</role>
+<role>
+<acteur id="761545">Elizabeth Sanders</acteur>
+<personnage>Gossip Gerty</personnage>
+</role>
+<role>
+<acteur id="842422">Jeep Swenson</acteur>
+<personnage>Bane</personnage>
+</role>
+<role>
+<acteur id="277822">John Fink</acteur>
+<personnage>Aztec Museum Guard</personnage>
+</role>
+<role>
+<acteur id="533197">Michael Reid MacKay</acteur>
+<personnage>Antonio Diego</personnage>
+</role>
+<poster>http://ia.media-imdb.com/images/M/MV5BMTc2NDYzMjY0Ml5BMl5BanBnXkFtZTcwNTE5MjEzMQ@@._V1._SX100_SY122_.jpg</poster>
+<annonce>n/a</annonce>
+</film>
+<film id="29843">
+<titre>The Adventures of Robin Hood</titre>
+<annee>1938</annee>
+<pays>USA</pays>
+<langue>English</langue>
+<duree>102</duree>
+<resume>When Prince John and the Norman Lords begin oppressing the Saxon masses in King Richard s absence, a Saxon lord fights back as the outlaw leader of a rebel guerrilla army.</resume>
+<genre>Action</genre>
+<genre>Adventure</genre>
+<genre>Romance</genre>
+<realisateur id="2031">Michael Curtiz</realisateur>
+<scenariste>Michael Curtiz</scenariste>
+<role>
+<acteur id="1224">Errol Flynn</acteur>
+<personnage>Robin Hood</personnage>
+</role>
+<role>
+<acteur id="14">Olivia de Havilland</acteur>
+<personnage>Maid Marian</personnage>
+</role>
+<role>
+<acteur id="1651">Basil Rathbone</acteur>
+<personnage>Sir Guy of Gisbourne</personnage>
+</role>
+<role>
+<acteur id="1647">Claude Rains</acteur>
+<personnage>Prince John</personnage>
+</role>
+<role>
+<acteur id="461549">Patric Knowles</acteur>
+<personnage>Will Scarlett</personnage>
+</role>
+<role>
+<acteur id="657874">Eugene Pallette</acteur>
+<personnage>Friar Tuck</personnage>
+</role>
+<role>
+<acteur id="2118">Alan Hale</acteur>
+<personnage>Little John</personnage>
+</role>
+<role>
+<acteur id="178259">Melville Cooper</acteur>
+<personnage>High Sheriff of Nottingham</personnage>
+</role>
+<role>
+<acteur id="402842">Ian Hunter</acteur>
+<personnage>King Richard the Lion-Heart</personnage>
+</role>
+<role>
+<acteur id="640547">Una O Connor</acteur>
+<personnage>Bess</personnage>
+</role>
+<role>
+<acteur id="612743">Herbert Mundin</acteur>
+<personnage>Much</personnage>
+</role>
+<poster>http://ia.media-imdb.com/images/M/MV5BMTI1MDk5NDM2Ml5BMl5BanBnXkFtZTcwMzcyMzAwMQ@@._V1._SX100_SY135_.jpg</poster>
+<annonce>n/a</annonce>
+</film>
+</films>

@@ -1,0 +1,17 @@
+-- Nombre de clients
+SELECT COUNT(IDCLIENT) AS NBCLIENT FROM CLIENTS;
+
+-- Nombre de films
+SELECT COUNT(IDFILM) AS NBFILMS FROM FILMS;
+
+-- Nombre de personnes
+SELECT COUNT(IDPERSONNE) AS NBPERSONNE FROM PERSONNES;
+
+-- Vérification de la contrainte de non nullité du NOCARTE
+INSERT INTO INFOCREDIT(NOCARTE) VALUES('');
+
+-- Vérification de la contrainte sur le mois qui ne dépasse pas la valeur 13
+INSERT INTO INFOCREDIT(NOCARTE,EXPMOIS) VALUES('1234 5678 1234 5678',13);
+
+--Vérification des contraintes de non nullité des Attributs CARTE, EXPMOIS, EXPANNEE 
+SELECT IDCLIENT FROM INFOCREDIT WHERE CARTE IS NULL OR NOCARTE IS NULL OR EXPMOIS IS NULL OR EXPANNEE IS NULL;

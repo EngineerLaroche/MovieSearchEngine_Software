@@ -1,0 +1,19 @@
+Conceptuel:
+- Contrainte (disjoint, incomplet) est fausse car:
+une personne peut être un réalisateur pour un film et un acteur pour un autre par exemple : personne_id = 917188.
+Les acteurs, les realisateurs, les scenaristes heritent tous les info personnels de personne.
+- Des attributs faux (ex : idfilm dans tables Genre et pays et scenaristes…)
+
+Relationnel :
+- Table client : FK (idpersonne) est fausse! et on a manque des attributs! 
+- Ne faut pas mettre les multiplicités sur les relations! On les met dans le modèle conceptuel.
+- Type de bio: clob
+- Manque de PKs pour certaines tables
+
+Constraintes
+- Manque de création de PKs pour quelques tables
+- Contrainte Unique n'est pas utilisée 
+
+Validation :
+Pas de validation des contraintes unique et FK.
+

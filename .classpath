@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.datatools.connectivity.jdt.DRIVERLIBRARY/Other Driver Default"/>
+	<classpathentry kind="lib" path="lib/ojdbc8.jar"/>
+	<classpathentry kind="lib" path="lib/xmlpull_1_1_3_4c.jar"/>
+	<classpathentry kind="lib" path="lib/vlcj-3.0.1.jar" sourcepath="C:/Users/ALEXAN~1/AppData/Local/Temp/.org.sf.feeling.decompiler1553601768457/source/vlcj-3.0.1-sources-1553603460918.jar"/>
+	<classpathentry kind="lib" path="lib/jna-3.5.2.jar"/>
+	<classpathentry kind="lib" path="lib/vlcj-4.0.6-test-sources.jar"/>
+	<classpathentry kind="lib" path="lib/vlcj-natives-4.0.2.jar"/>
+	<classpathentry kind="lib" path="lib/color-thief-1.1.2.jar" sourcepath="C:/Users/ALEXAN~1/AppData/Local/Temp/.org.sf.feeling.decompiler1554161454774/source/color-thief-1.1.2-sources.jar"/>
+	<classpathentry kind="lib" path="lib/xdb.jar"/>
+	<classpathentry kind="lib" path="lib/xmlparserv2-12.2.0.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
