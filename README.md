@@ -1,3 +1,14 @@
+Système de base de données respectant une architecture trois tiers. Ce système propose à l’utilisateur d’interroger, de modifier et d’interagir avec une base de données multimédia. Plus précisément, il s’agit d’un système de gestion de location de films.
+
+- Gestion du compte utilisateur
+- Recherche par personne, participant et par film
+- Rechercher par couleur primaire
+- Historique de recherche
+- Location et retrait de film
+- Exporter la recherche en XML
+- Lecture du contenu multimédia (ex: bande-annonce)
+
+
 *********************************
 *	Acces Serveur GitLab ETS	    *
 *********************************
