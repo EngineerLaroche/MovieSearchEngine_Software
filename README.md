@@ -1,13 +1,9 @@
-GTI660-01 H2019 : Laboratoire 01
-
 *********************************
-*	Acces Serveur GitLab ETS	*
+*	Acces Serveur GitLab ETS	    *
 *********************************
 
 Serveur : gti660ora12c.logti.etsmtl.ca (10.194.32.161)
-
 Port: 1521
-
 SID:  GTI660
 
 membre1:
